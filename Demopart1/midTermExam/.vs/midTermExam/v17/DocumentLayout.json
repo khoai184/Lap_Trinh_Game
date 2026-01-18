@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|c:\\users\\hi\\documents\\games-developer\\midtermexam\\assets\\showlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\showlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\assets\\blinking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\blinking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowLog.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\ShowLog.cs",
+              "RelativeDocumentMoniker": "Assets\\ShowLog.cs",
+              "ToolTip": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\ShowLog.cs",
+              "RelativeToolTip": "Assets\\ShowLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:28:30.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blinking.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\Blinking.cs",
+              "RelativeDocumentMoniker": "Assets\\Blinking.cs",
+              "ToolTip": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\Blinking.cs",
+              "RelativeToolTip": "Assets\\Blinking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:25:33.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
