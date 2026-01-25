@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|c:\\users\\hi\\documents\\games-developer\\midtermexam\\assets\\showlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\showlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\hi\\documents\\games-developer\\midtermexam\\assets\\enemymanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\enemymanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\assets\\blinking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\blinking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\assets\\emenymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\emenymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\hi\\documents\\games-developer\\midtermexam\\assets\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2EEF66F-4E74-2D1B-04C4-7BD955D2D4B2}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ShowLog.cs",
-              "DocumentMoniker": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\ShowLog.cs",
-              "RelativeDocumentMoniker": "Assets\\ShowLog.cs",
-              "ToolTip": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\ShowLog.cs",
-              "RelativeToolTip": "Assets\\ShowLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "EnemyManage.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\EnemyManage.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyManage.cs",
+              "ToolTip": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\EnemyManage.cs",
+              "RelativeToolTip": "Assets\\EnemyManage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T15:28:30.624Z",
+              "WhenOpened": "2026-01-18T17:39:40.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Blinking.cs",
-              "DocumentMoniker": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\Blinking.cs",
-              "RelativeDocumentMoniker": "Assets\\Blinking.cs",
-              "ToolTip": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\Blinking.cs",
-              "RelativeToolTip": "Assets\\Blinking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "EmenyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\EmenyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\EmenyMovement.cs",
+              "ToolTip": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\EmenyMovement.cs",
+              "RelativeToolTip": "Assets\\EmenyMovement.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAUwLsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T15:25:33.068Z"
+              "WhenOpened": "2026-01-18T17:37:12.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\EnemyMovement.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAA7wKsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:29:31.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
+              "ToolTip": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T17:11:37.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\hi\\Documents\\Games-Developer\\midTermExam\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:29:39.713Z"
             }
           ]
         }
