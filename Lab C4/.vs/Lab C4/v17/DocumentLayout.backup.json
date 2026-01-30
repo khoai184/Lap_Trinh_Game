@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{EA3259B3-F790-68C6-ED78-7628822CB239}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\introcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA3259B3-F790-68C6-ED78-7628822CB239}|Assembly-CSharp.csproj|c:\\users\\hi\\documents\\games-developer\\lab c4\\assets\\_scripts\\lab7_videoevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA3259B3-F790-68C6-ED78-7628822CB239}|Assembly-CSharp.csproj|C:\\Users\\hi\\Documents\\Games-Developer\\Lab C4\\assets\\_scripts\\lab7_videoevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA3259B3-F790-68C6-ED78-7628822CB239}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\lab7_videoevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Assets\\_Scripts\\IntroController.cs",
               "ToolTip": "C:\\Users\\hi\\Documents\\Games-Developer\\Lab C4\\Assets\\_Scripts\\IntroController.cs",
               "RelativeToolTip": "Assets\\_Scripts\\IntroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T16:26:46.151Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Assets\\_Scripts\\Lab7_VideoEvents.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T16:20:03.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T16:20:03.476Z"
             },
             {
               "$type": "Document",
