@@ -10,11 +10,11 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
-        // {
-        //     Instantiate(bulletPrefab, GunLeft.position, Quaternion.identity);
-        //     Instantiate(bulletPrefab, GunRight.position, Quaternion.identity);
-        //     Instantiate(bulletPrefab, GunMiddle.position, Quaternion.identity);
-        // }
+        {
+            Instantiate(bulletPrefab, GunLeft.position, Quaternion.identity);
+            Instantiate(bulletPrefab, GunRight.position, Quaternion.identity);
+            Instantiate(bulletPrefab, GunMiddle.position, Quaternion.identity);
+        }
 
         var worldPoint = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         worldPoint.z = 0;
